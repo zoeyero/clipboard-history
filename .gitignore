@@ -1,0 +1,15 @@
+**/dist/
+**/test-results/
+releases/
+*.icb2
+**/Data/
+**/assets/
+location.xml
+catalog.xml
+settings.xml
+.env*
+*.user
+*.suo
+.vs/
+.codex/
+.aws/
